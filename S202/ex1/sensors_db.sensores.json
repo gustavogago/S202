@@ -1,0 +1,1161 @@
+[{
+  "_id": {
+    "$oid": "66d63992d082ae59ecfdd5b3"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.96016863411254,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d63992d082ae59ecfdd5b5"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 36.444848251184965,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d63992d082ae59ecfdd5b4"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 34.63205250263053,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d6399fd082ae59ecfdd5b6"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 33.59689074344825,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d6399fd082ae59ecfdd5b7"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 30.711491004359658,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d6399fd082ae59ecfdd5b8"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 38.43680033643212,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639a1d082ae59ecfdd5bb"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 37.844214383886296,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a1d082ae59ecfdd5ba"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 30.114114243089684,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a1d082ae59ecfdd5b9"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 38.309365453909244,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639a3d082ae59ecfdd5bc"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 34.942239233636734,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a3d082ae59ecfdd5bd"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 35.02782566589312,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a3d082ae59ecfdd5be"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 39.48560634699747,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639a5d082ae59ecfdd5bf"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 38.48948907644452,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639a5d082ae59ecfdd5c0"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 34.416300689289706,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a5d082ae59ecfdd5c1"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 34.82908674922564,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a7d082ae59ecfdd5c2"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 38.51989205020219,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639a7d082ae59ecfdd5c3"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 39.0576784402179,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639a7d082ae59ecfdd5c4"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 35.468588525589595,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a9d082ae59ecfdd5c5"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 30.928631671538213,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a9d082ae59ecfdd5c6"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 32.75561405514241,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639a9d082ae59ecfdd5c7"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 33.19373203390149,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639abd082ae59ecfdd5c8"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 37.06915547079535,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639abd082ae59ecfdd5c9"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 38.60338710053043,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639abd082ae59ecfdd5ca"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 31.808545390064495,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639add082ae59ecfdd5cc"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 30.60081151125277,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639add082ae59ecfdd5cb"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 31.393637185559253,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639add082ae59ecfdd5cd"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.514443050469936,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639afd082ae59ecfdd5ce"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 37.38728855345307,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639afd082ae59ecfdd5cf"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 32.86783089054321,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639afd082ae59ecfdd5d0"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 33.683862295839425,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b1d082ae59ecfdd5d1"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.9956170233028,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b1d082ae59ecfdd5d2"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 32.953734363332885,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b1d082ae59ecfdd5d3"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 39.57300119450457,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639b3d082ae59ecfdd5d4"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.728085167159925,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b3d082ae59ecfdd5d5"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 35.909893150157004,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b3d082ae59ecfdd5d6"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 35.27311365404655,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b5d082ae59ecfdd5d9"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 38.81013147422004,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639b5d082ae59ecfdd5d7"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 30.086491566697255,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b5d082ae59ecfdd5d8"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 39.16833057541382,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639b7d082ae59ecfdd5da"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.8432950657187,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b7d082ae59ecfdd5db"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 32.56010650996003,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b7d082ae59ecfdd5dc"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 34.955810543832044,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b9d082ae59ecfdd5dd"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 35.044846727044366,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b9d082ae59ecfdd5de"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 33.141200000293644,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639b9d082ae59ecfdd5df"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 39.166289358917,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639bbd082ae59ecfdd5e0"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 39.97733329304293,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639bbd082ae59ecfdd5e1"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 33.57749508043632,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639bbd082ae59ecfdd5e2"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 31.52134823132674,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639bdd082ae59ecfdd5e3"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 36.41010186551546,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639bdd082ae59ecfdd5e4"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 37.53409005499815,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639bdd082ae59ecfdd5e5"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 31.14575172344514,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639bfd082ae59ecfdd5e6"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 31.72263670579277,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639bfd082ae59ecfdd5e7"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 31.546559733675174,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639bfd082ae59ecfdd5e8"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 38.967827082126284,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639c1d082ae59ecfdd5e9"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 32.313104378886464,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c1d082ae59ecfdd5ea"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.27689918919247,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c1d082ae59ecfdd5eb"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 33.96396191394861,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c3d082ae59ecfdd5ec"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 35.523416598974464,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c3d082ae59ecfdd5ed"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 32.40160796030373,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c3d082ae59ecfdd5ee"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 37.22679461950152,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c5d082ae59ecfdd5ef"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 31.61500746523877,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c5d082ae59ecfdd5f0"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 33.00970809716867,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c5d082ae59ecfdd5f1"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 33.82525041148702,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c7d082ae59ecfdd5f2"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 30.589796872538727,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c7d082ae59ecfdd5f3"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 38.27587256592979,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639c7d082ae59ecfdd5f4"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 33.8031674188363,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c9d082ae59ecfdd5f5"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 38.90692853701378,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639c9d082ae59ecfdd5f6"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 34.37458674599097,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639c9d082ae59ecfdd5f7"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 39.39413011654129,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639cbd082ae59ecfdd5f8"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 30.556398793349683,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639cbd082ae59ecfdd5f9"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 32.35859763942038,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639cbd082ae59ecfdd5fa"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 35.077635481335996,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639cdd082ae59ecfdd5fb"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 34.44446782089132,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639cdd082ae59ecfdd5fc"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 30.015412898454546,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639cdd082ae59ecfdd5fd"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 37.75656823335134,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639cfd082ae59ecfdd5ff"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 35.708872588320304,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639cfd082ae59ecfdd5fe"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 36.26790437995993,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639cfd082ae59ecfdd600"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 35.450919088578566,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d1d082ae59ecfdd601"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 36.875295838680174,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d1d082ae59ecfdd602"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 38.942684077991004,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639d1d082ae59ecfdd603"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 39.09523750538696,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639d3d082ae59ecfdd604"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 32.65749699510748,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d3d082ae59ecfdd605"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 32.56906683827256,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d3d082ae59ecfdd606"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.58580139298953,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d5d082ae59ecfdd607"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 32.48030709083727,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d5d082ae59ecfdd608"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 32.640293870662084,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d5d082ae59ecfdd609"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 32.008844151181556,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d7d082ae59ecfdd60a"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 30.06744539086598,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d7d082ae59ecfdd60b"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 30.26080914704107,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d7d082ae59ecfdd60c"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 31.150786810758454,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d9d082ae59ecfdd60d"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 32.260054893388016,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d9d082ae59ecfdd60e"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 31.136601819177468,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639d9d082ae59ecfdd60f"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 39.69726521354944,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639dbd082ae59ecfdd610"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 30.082812648755066,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639dbd082ae59ecfdd611"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 37.83538566310478,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639dbd082ae59ecfdd612"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 38.628456990307455,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639ddd082ae59ecfdd613"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 36.89782429774638,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639ddd082ae59ecfdd614"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 36.25756116038367,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639ddd082ae59ecfdd615"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 38.35998965056217,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639dfd082ae59ecfdd616"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 39.58802041372662,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639dfd082ae59ecfdd617"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 31.296050698948807,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639dfd082ae59ecfdd618"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.947886727266045,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e1d082ae59ecfdd619"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 33.23180395208862,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e1d082ae59ecfdd61a"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 36.70435524416227,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e1d082ae59ecfdd61b"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 35.58415641778931,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e3d082ae59ecfdd61c"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 38.582371636722755,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639e3d082ae59ecfdd61d"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 35.770432167827714,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e3d082ae59ecfdd61e"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 31.595895256538626,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e5d082ae59ecfdd61f"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 32.55963168333866,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e5d082ae59ecfdd620"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 39.42329155398187,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639e5d082ae59ecfdd621"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 31.799819688964135,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e7d082ae59ecfdd622"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 38.040943239697185,
+  "unidadeMedida": "C",
+  "sensorAlarmado": true
+},
+{
+  "_id": {
+    "$oid": "66d639e7d082ae59ecfdd623"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 31.40908453213959,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e7d082ae59ecfdd624"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 30.81361510986274,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e9d082ae59ecfdd625"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 34.43787922760609,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e9d082ae59ecfdd626"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 35.949551291798656,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639e9d082ae59ecfdd627"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 32.357474088205905,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639ebd082ae59ecfdd628"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 34.76045836879473,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639ebd082ae59ecfdd629"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 31.137157686347987,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639ebd082ae59ecfdd62a"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 36.959598840128436,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639edd082ae59ecfdd62b"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 31.361578390358382,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639edd082ae59ecfdd62c"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 31.663345705563653,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639edd082ae59ecfdd62d"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 33.98004822781481,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639efd082ae59ecfdd62e"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 36.504665311964175,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639efd082ae59ecfdd62f"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 32.425993328312636,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639efd082ae59ecfdd630"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 35.33757230166319,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639f1d082ae59ecfdd632"
+  },
+  "sensor_id": "Temp1",
+  "valorSensor": 36.99470822065193,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639f1d082ae59ecfdd631"
+  },
+  "sensor_id": "Temp2",
+  "valorSensor": 36.40306507669611,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+},
+{
+  "_id": {
+    "$oid": "66d639f1d082ae59ecfdd633"
+  },
+  "sensor_id": "Temp3",
+  "valorSensor": 37.70680497715603,
+  "unidadeMedida": "C",
+  "sensorAlarmado": false
+}]
